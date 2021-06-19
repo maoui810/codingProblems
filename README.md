@@ -1,4 +1,4 @@
 ### LeetCode Problems 
 
 #### Palidrome Easy 1
-![exaplerun](img/1.png)
+![exaplerun](img/1.PNG)
